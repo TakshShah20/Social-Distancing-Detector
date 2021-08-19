@@ -1,5 +1,5 @@
 # Social-Distancing-Detector
-This system provides an easy solution to detect distance between people and alert its users if the appropriate distance is not maintained. 
+This system provides an easy solution to detect distance between people and alert its users if the appropriate distance is not maintained. The system design has been developed on Tinkercad.com
 
 # Scope:
 Today, social distancing has become a norm in any social interaction we have due to the increasing threat of the spread of Covid-19. There are many innovations that have been created to help combat and reduce the spread of the deadly disease, not just with other types of devices but using the power of Arduino as well. This can be seen in other projects across the website such as a Hand wash timer or an automatic hand sanitizer dispenser.
